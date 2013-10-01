@@ -1,4 +1,4 @@
 compcam
 =======
 
-Computational Cameras Coursse
+Computational Cameras Course
